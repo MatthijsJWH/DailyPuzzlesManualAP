@@ -1,0 +1,111 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Queens Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Queens"],
+      "progression": true
+    },
+    {
+      "name": "Tango Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Tango"],
+      "progression": true
+    },
+    {
+      "name": "Pinpoint Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Pinpoint"],
+      "progression": true
+    },
+    {
+      "name": "Crossclimb Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Crossclimb"],
+      "progression": true
+    },
+    {
+      "name": "Zip Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Zip"],
+      "progression": true
+    },
+    {
+      "name": "Wend Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Wend"],
+      "progression": true
+    },
+    {
+      "name": "Patches Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Patches"],
+      "progression": true
+    },
+    {
+      "name": "Mini Sudoku Unlock",
+      "category": ["Puzzle Unlock", "LinkedIn", "Mini Sudoku"],
+      "progression": true
+    },
+    {
+      "name": "Wordle Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Wordle"],
+      "progression": true
+    },
+    {
+      "name": "Connections Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Connections"],
+      "progression": true
+    },
+    {
+      "name": "Mini Crossword Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Mini Crossword"],
+      "progression": true
+    },
+    {
+      "name": "Strands Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Strands"],
+      "progression": true
+    },
+    {
+      "name": "Spelling Bee Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Spelling Bee"],
+      "progression": true
+    },
+    {
+      "name": "Pips (Easy) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Pips"],
+      "progression": true
+    },
+    {
+      "name": "Pips (Medium) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Pips"],
+      "progression": true
+    },
+    {
+      "name": "Pips (Hard) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Pips"],
+
+      "progression": true
+    },
+    {
+      "name": "Letter Boxed Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Letter Boxed"],
+      "progression": true
+    },
+    {
+      "name": "Tiles Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Tiles"],
+      "progression": true
+    },
+    {
+      "name": "Sudoku (Easy) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Sudoku"],
+      "progression": true
+    },
+    {
+      "name": "Sudoku (Medium) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Sudoku"],
+      "progression": true
+    },
+    {
+      "name": "Sudoku (Hard) Unlock",
+      "category": ["Puzzle Unlock", "NYT", "Sudoku"],
+      "progression": true
+    }
+  ]
+}

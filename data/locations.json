@@ -1,0 +1,115 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Complete Queens",
+      "requires": "|Queens Unlock|",
+      "category": ["LinkedIn", "Queens"]
+    },
+    {
+      "name": "Complete Tango",
+      "requires": "|Tango Unlock|",
+      "category": ["LinkedIn", "Tango"]
+    },
+    {
+      "name": "Complete Pinpoint",
+      "requires": "|Pinpoint Unlock|",
+      "category": ["LinkedIn", "Pinpoint"]
+    },
+    {
+      "name": "Complete Crossclimb",
+      "requires": "|Crossclimb Unlock|",
+      "category": ["LinkedIn", "Crossclimb"]
+    },
+    {
+      "name": "Complete Zip",
+      "requires": "|Zip Unlock|",
+      "category": ["LinkedIn", "Zip"]
+    },
+    {
+      "name": "Complete Wend",
+      "requires": "|Wend Unlock|",
+      "category": ["LinkedIn", "Wend"]
+    },
+    {
+      "name": "Complete Patches",
+      "requires": "|Patches Unlock|",
+      "category": ["LinkedIn", "Patches"]
+    },
+    {
+      "name": "Complete Mini Sudoku",
+      "requires": "|Mini Sudoku Unlock|",
+      "category": ["LinkedIn", "Mini Sudoku"]
+    },
+    {
+      "name": "Complete Wordle",
+      "requires": "|Wordle Unlock|",
+      "category": ["NYT", "Wordle"]
+    },
+    {
+      "name": "Complete Connections",
+      "requires": "|Connections Unlock|",
+      "category": ["NYT", "Connections"]
+    },
+    {
+      "name": "Complete Mini Crossword",
+      "requires": "|Mini Crossword Unlock|",
+      "category": ["NYT", "Mini Crossword"]
+    },
+    {
+      "name": "Complete Strands",
+      "requires": "|Strands Unlock|",
+      "category": ["NYT", "Strands"]
+    },
+    {
+      "name": "Complete Spelling Bee (reach Solid)",
+      "requires": "|Spelling Bee Unlock|",
+      "category": ["NYT", "Spelling Bee"]
+    },
+    {
+      "name": "Complete Pips (Easy)",
+      "requires": "|Pips (Easy) Unlock|",
+      "category": ["NYT", "Pips"]
+    },
+    {
+      "name": "Complete Pips (Medium)",
+      "requires": "|Pips (Medium) Unlock|",
+      "category": ["NYT", "Pips"]
+    },
+    {
+      "name": "Complete Pips (Hard)",
+      "requires": "|Pips (Hard) Unlock|",
+      "category": ["NYT", "Pips"]
+    },
+    {
+      "name": "Complete Letter Boxed",
+      "requires": "|Letter Boxed Unlock|",
+      "category": ["NYT", "Letter Boxed"]
+    },
+    {
+      "name": "Complete Tiles",
+      "requires": "|Tiles Unlock|",
+      "category": ["NYT", "Tiles"]
+    },
+    {
+      "name": "Complete Sudoku (Easy)",
+      "requires": "|Sudoku (Easy) Unlock|",
+      "category": ["NYT", "Sudoku"]
+    },
+    {
+      "name": "Complete Sudoku (Medium)",
+      "requires": "|Sudoku (Medium) Unlock|",
+      "category": ["NYT", "Sudoku"]
+    },
+    {
+      "name": "Complete Sudoku (Hard)",
+      "requires": "|Sudoku (Hard) Unlock|",
+      "category": ["NYT", "Sudoku"]
+    },
+    {
+      "name": "Puzzle Master (Victory)",
+      "requires": "{requiresPuzzleGoal()}",
+      "victory": true
+    }
+  ]
+}

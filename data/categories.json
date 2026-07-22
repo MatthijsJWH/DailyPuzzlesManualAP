@@ -1,0 +1,22 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+  "LinkedIn": { "yaml_option": ["include_linkedin"] },
+  "NYT": { "yaml_option": ["include_nyt"] },
+  "Wend": { "yaml_option": ["include_wend"] },
+  "Zip": { "yaml_option": ["include_zip"] },
+  "Patches": { "yaml_option": ["include_patches"] },
+  "Mini Sudoku": { "yaml_option": ["include_mini_sudoku"] },
+  "Queens": { "yaml_option": ["include_queens"] },
+  "Tango": { "yaml_option": ["include_tango"] },
+  "Pinpoint": { "yaml_option": ["include_pinpoint"] },
+  "Crossclimb": { "yaml_option": ["include_crossclimb"] },
+  "Wordle": { "yaml_option": ["include_wordle"] },
+  "Connections": { "yaml_option": ["include_connections"] },
+  "Mini Crossword": { "yaml_option": ["include_mini_crossword"] },
+  "Strands": { "yaml_option": ["include_strands"] },
+  "Spelling Bee": { "yaml_option": ["include_spelling_bee"] },
+  "Pips": { "yaml_option": ["include_pips"] },
+  "Letter Boxed": { "yaml_option": ["include_letter_boxed"] },
+  "Tiles": { "yaml_option": ["include_tiles"] },
+  "Sudoku": { "yaml_option": ["include_sudoku"] }
+}

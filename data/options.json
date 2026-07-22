@@ -1,0 +1,114 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+  "core": {
+    "goal": { "hidden": true }
+  },
+  "user": {
+    "include_linkedin": {
+      "type": "Toggle",
+      "display_name": "Include LinkedIn Puzzles",
+      "description": "Include LinkedIn daily puzzles (Queens, Tango, Pinpoint, Crossclimb, Zip).",
+      "default": true
+    },
+    "include_nyt": {
+      "type": "Toggle",
+      "display_name": "Include NYT Puzzles",
+      "description": "Include NYT daily puzzles (Wordle, Connections, Mini, Strands, Spelling Bee).",
+      "default": true
+    },
+    "puzzles_required": {
+      "type": "Range",
+      "display_name": "Puzzles Required for Victory",
+      "description": "How many puzzle unlocks you must collect (and complete) to goal. Automatically capped at the number of enabled puzzles.",
+      "range_start": 1,
+      "range_end": 10,
+      "default": 8
+    },
+    "include_queens": {
+      "type": "Toggle",
+      "display_name": "Include Queens",
+      "default": true
+    },
+    "include_tango": {
+      "type": "Toggle",
+      "display_name": "Include Tango",
+      "default": true
+    },
+    "include_pinpoint": {
+      "type": "Toggle",
+      "display_name": "Include Pinpoint",
+      "default": true
+    },
+    "include_crossclimb": {
+      "type": "Toggle",
+      "display_name": "Include Crossclimb",
+      "default": true
+    },
+    "include_zip": {
+      "type": "Toggle",
+      "display_name": "Include Zip",
+      "default": true
+    },
+    "include_wend": {
+      "type": "Toggle",
+      "display_name": "Include Wend",
+      "default": true
+    },
+    "include_patches": {
+      "type": "Toggle",
+      "display_name": "Include Patches",
+      "default": true
+    },
+    "include_mini_sudoku": {
+      "type": "Toggle",
+      "display_name": "Include Mini Sudoku",
+      "default": true
+    },
+    "include_wordle": {
+      "type": "Toggle",
+      "display_name": "Include Wordle",
+      "default": true
+    },
+    "include_connections": {
+      "type": "Toggle",
+      "display_name": "Include Connections",
+      "default": true
+    },
+    "include_mini_crossword": {
+      "type": "Toggle",
+      "display_name": "Include Mini Crossword",
+      "default": true
+    },
+    "include_strands": {
+      "type": "Toggle",
+      "display_name": "Include Strands",
+      "default": true
+    },
+    "include_spelling_bee": {
+      "type": "Toggle",
+      "display_name": "Include Spelling Bee",
+      "default": true
+    },
+    "include_pips": {
+      "type": "Toggle",
+      "display_name": "Include Pips",
+      "default": true
+    },
+    "include_letter_boxed": {
+      "type": "Toggle",
+      "display_name": "Include Letter Boxed",
+      "default": true
+    },
+    "include_tiles": {
+      "type": "Toggle",
+      "display_name": "Include Tiles",
+      "default": true
+    },
+    "include_sudoku": {
+      "type": "Toggle",
+      "display_name": "Include Sudoku",
+      "default": true
+    }
+  }
+}

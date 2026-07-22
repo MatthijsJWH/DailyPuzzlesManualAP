@@ -1,0 +1,14 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Daily Puzzles",
+  "creator": "XanthosNLD",
+
+  "filler_item_name": "Coffee Break",
+
+  "starting_items": [
+    {
+      "item_categories": ["Puzzle Unlock"],
+      "random": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.meta.schema.json",
+  "_comment": [
+    "remove the _ before a non-comment/info propertie to enable it",
+    "For more info use json schemas to get a description and allowed value for every properties",
+    "https://github.com/ManualForArchipelago/Manual/blob/main/docs/resources/json-schemas-for-world-devs.md"
+  ],
+  "docs": {
+    "_comment": [
+      "For more info on the possible documentation properties check schema and/or the github",
+      "https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class"
+    ],
+    "apworld_description": [
+      "Daily Puzzles is a Manual world built around LinkedIn and NYT daily puzzle games.",
+      "Each enabled puzzle contributes an unlock item, and the player manually completes those puzzles while Archipelago tracks progress.",
+      "Players manually complete puzzles while Archipelago tracks unlock progress."
+    ],
+    "web": {
+      "_comment": "for more info check github https://github.com/ArchipelagoMW/Archipelago/blob/main/docs/world%20api.md#webworld-class",
+      "theme": "grass",
+      "bug_report_page": "https://discord.gg/T5bcsVHByx",
+      "tutorials": [
+        {
+          "name": "Daily Puzzles Setup Guide",
+          "description": "A guide to configuring the Daily Puzzles Manual world for Archipelago multiworld games.",
+          "language": "English",
+          "file_name": "setup_en.md",
+          "link": "setup/en",
+          "_comment": "if you don't include the authors it will use creator from game.json"
+        }
+      ],
+      "_options_presets": {
+        "LinkedIn Focus": {
+          "include_linkedin": true,
+          "include_nyt": false,
+          "puzzles_required": 5
+        },
+        "NYT Focus": {
+          "include_linkedin": false,
+          "include_nyt": true,
+          "puzzles_required": 5
+        },
+        "All Puzzles": {
+          "include_linkedin": true,
+          "include_nyt": true,
+          "puzzles_required": 8
+        }
+      }
+    }
+  }
+}
