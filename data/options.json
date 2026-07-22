@@ -22,7 +22,7 @@
       "display_name": "Puzzles Required for Victory",
       "description": "How many puzzle unlocks you must collect (and complete) to goal. Automatically capped at the number of enabled puzzles.",
       "range_start": 1,
-      "range_end": 10,
+      "range_end": 20,
       "default": 8
     },
     "include_queens": {
