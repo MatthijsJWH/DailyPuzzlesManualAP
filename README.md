@@ -19,7 +19,7 @@ Configured on the player settings/YAML page:
 |---|---|
 | `include_linkedin` | Include all LinkedIn puzzles as a group |
 | `include_nyt` | Include all NYT puzzles as a group |
-| `puzzles_required` | Puzzles needed to goal (1–10, capped to the number enabled) |
+| `puzzles_required` | Puzzles needed to goal (1–20, capped to the number enabled) |
 | `include_queens`, `include_tango`, `include_pinpoint`, `include_crossclimb`, `include_zip`, `include_wend`, `include_patches`, `include_mini_sudoku` | Toggle individual LinkedIn puzzles |
 | `include_wordle`, `include_connections`, `include_mini_crossword`, `include_strands`, `include_spelling_bee`, `include_pips`, `include_letter_boxed`, `include_tiles`, `include_sudoku` | Toggle individual NYT puzzles |
 
